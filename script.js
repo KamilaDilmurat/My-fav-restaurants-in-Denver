@@ -8,7 +8,7 @@ var Denverfood = L.map('Denverfood').setView([39.808, -105.555], 10);
 	minZoom: 0,
 	maxZoom: 20,
 	ext: 'png'
-}).addTo(STLfood);
+}).addTo(Denverfood);
 
 
 var marker1 = L.marker([39.753, -105.053]).addTo(Denverfood);
