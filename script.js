@@ -1,5 +1,5 @@
 
-var Denverfood = L.map('Denverfood').setView([39.808, -105.555], 10);
+var Denverfood = L.map('Denverfood').setView([39.808, -105.555], 6);
 
   // load a tile layer
  L.tileLayer('https://stamen-tiles-{s}.a.ssl.fastly.net/toner/{z}/{x}/{y}{r}.{ext}', {
